@@ -1,5 +1,5 @@
 <h1> Forked repository and added conversion python script </h1>
-My added script is: 
+Added script is: 
 <strong>convert_annotations.py</strong>
 
 Use toolkit normally to gather images from open images dataset. After gathering images just run from root directory:
